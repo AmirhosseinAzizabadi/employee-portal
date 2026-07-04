@@ -31,7 +31,7 @@ Follow these steps to set up and run the project locally on your machine:
 
 ### 1. Clone the repository:
 
-    git clone [https://github.com/AmirhosseinAzizabadi/employee-portal.git](https://github.com/AmirhosseinAzizabadi/employee-portal.git)
+    git clone https://github.com/AmirhosseinAzizabadi/employee-portal.git
     cd employee-portal
 
 ### 2. Backend Setup:
